@@ -4,3 +4,4 @@
 
 "Add line"
 commit test
+"new branch line"
